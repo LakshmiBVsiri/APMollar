@@ -12,7 +12,6 @@ This project demonstrates how Large Language Models (LLMs) can assist in real-ti
 ## Architecture Diagram
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a629f1c9-7233-4bde-acb5-03a71ae787c7" />
 
-![Architecture Diagram](A_flowchart-style_digital_diagram_illustrates_the_.png)
 
 ---
 
