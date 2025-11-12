@@ -1,0 +1,8 @@
+streamlit
+duckdb
+pandas
+plotly
+pydeck
+google-generativeai
+langdetect
+requests
